@@ -1,0 +1,21 @@
+﻿  City.cpp
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(39,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(49,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(256,6): warning C4101: 'popDens': unreferenced local variable
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(271,9): warning C4101: 'livingIndex': unreferenced local variable
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(241,9): warning C4101: 'y': unreferenced local variable
+  CityDatabase.cpp
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\City.cpp(226,9): warning C4101: 'x': unreferenced local variable
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\HashTable.h(260,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\HashTable.h(248): message : while compiling class template member function 'void HashTable<City *>::rehash(void)'
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\HashTable.h(115): message : see reference to function template instantiation 'void HashTable<City *>::rehash(void)' being compiled
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\HashTable.h(91): message : while compiling class template member function 'HashTable<City *>::HashTable(int)'
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\CityDatabase.cpp(84): message : see reference to function template instantiation 'HashTable<City *>::HashTable(int)' being compiled
+  HitCounter.cpp
+  main.cpp
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\CityDatabase.cpp(52): message : see reference to class template instantiation 'HashTable<City *>' being compiled
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\main.cpp(106,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\main.cpp(117,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ajeet\source\repos\TravelBuddy\TravelBuddy\HashNode.h(106): warning C4717: 'operator<<City *>': recursive on all control paths, function will cause runtime stack overflow
+  TravelBuddy.vcxproj -> C:\Users\Ajeet\source\repos\TravelBuddy\Debug\TravelBuddy.exe
